@@ -1,0 +1,22 @@
+<div style="text-align: center">
+        <h2>Registration Page</h2><br/>
+        <br/>
+    <form #userRef1="ngForm" (ngSubmit)="checkUser2(userRef1)">
+        <label>First Name</label>
+        <input type="text" name="fname" ngModel/> <br/>
+        <br/>
+        <label>Last Name</label>
+        <input type="text" name="lname" ngModel/> <br/>
+        <br/>
+        <label>UserName</label>
+        <input type="text" name="user" ngModel/> <br/>
+        <br/>
+        <label>Password</label>
+        <input type="password" name="pass" ngModel/> <br/>
+        <br/>
+        <input class="btn btn-primary" type="submit" value="submit"/>
+        <input class="btn btn-primary" type="reset" value="reset"/>
+    </form>
+
+</div>
+
