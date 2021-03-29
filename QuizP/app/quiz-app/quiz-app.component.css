@@ -1,0 +1,11 @@
+.ul {
+    list-style: none;
+}
+.li {
+    border: 50px;
+    padding: 50px;
+    word-spacing: 3px;
+    letter-spacing: 2px;
+    
+}
+
