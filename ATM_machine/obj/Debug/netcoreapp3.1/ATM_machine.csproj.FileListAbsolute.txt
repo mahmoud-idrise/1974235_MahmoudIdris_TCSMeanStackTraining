@@ -1,0 +1,13 @@
+/Users/mahmoudidris/Projects/ATM_machine/ATM_machine/bin/Debug/netcoreapp3.1/ATM_machine.deps.json
+/Users/mahmoudidris/Projects/ATM_machine/ATM_machine/bin/Debug/netcoreapp3.1/ATM_machine.runtimeconfig.json
+/Users/mahmoudidris/Projects/ATM_machine/ATM_machine/bin/Debug/netcoreapp3.1/ATM_machine.runtimeconfig.dev.json
+/Users/mahmoudidris/Projects/ATM_machine/ATM_machine/bin/Debug/netcoreapp3.1/ATM_machine.dll
+/Users/mahmoudidris/Projects/ATM_machine/ATM_machine/bin/Debug/netcoreapp3.1/ATM_machine.pdb
+/Users/mahmoudidris/Projects/ATM_machine/ATM_machine/obj/Debug/netcoreapp3.1/ATM_machine.csproj.AssemblyReference.cache
+/Users/mahmoudidris/Projects/ATM_machine/ATM_machine/obj/Debug/netcoreapp3.1/ATM_machine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahmoudidris/Projects/ATM_machine/ATM_machine/obj/Debug/netcoreapp3.1/ATM_machine.AssemblyInfoInputs.cache
+/Users/mahmoudidris/Projects/ATM_machine/ATM_machine/obj/Debug/netcoreapp3.1/ATM_machine.AssemblyInfo.cs
+/Users/mahmoudidris/Projects/ATM_machine/ATM_machine/obj/Debug/netcoreapp3.1/ATM_machine.csproj.CoreCompileInputs.cache
+/Users/mahmoudidris/Projects/ATM_machine/ATM_machine/obj/Debug/netcoreapp3.1/ATM_machine.dll
+/Users/mahmoudidris/Projects/ATM_machine/ATM_machine/obj/Debug/netcoreapp3.1/ATM_machine.pdb
+/Users/mahmoudidris/Projects/ATM_machine/ATM_machine/obj/Debug/netcoreapp3.1/ATM_machine.genruntimeconfig.cache
